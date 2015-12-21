@@ -11,9 +11,7 @@ Files in this repo
     2. CodeBook.md -- codebook describing variables, the data and transformations
     3. run_analysis.R -- R code
 
-run_analysis.R 
-
-You should create one R script called run_analysis.R that does the following: 
+The files are used to create an R script called run_analysis.R that does the following: 
 
     1. Merges the training and the test sets to create one data set. 
     2. Extracts only the measurements on the mean and standard deviation for each measurement.
