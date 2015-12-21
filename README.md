@@ -2,7 +2,8 @@
 # Course project
 
 
-For creating a tidy data set using data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+For creating a tidy data set using data from 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Files in this repo
 
